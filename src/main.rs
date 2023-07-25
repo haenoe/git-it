@@ -1,3 +1,4 @@
+#[derive(Debug)]
 struct TestStruct {
     foo: u8,
 }
