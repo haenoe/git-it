@@ -10,5 +10,7 @@ fn main() {
 
     println!("oh a new feature b + b1");
 
+    dbg!(String::from("hey i am feature c"));
+
     println!("Hello, world!");
 }
