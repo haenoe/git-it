@@ -9,6 +9,9 @@ fn main() {
     dbg!(test_struct);
 
     println!("new main who dis");
+    println!("oh a new feature b + b1");
+
+    dbg!(String::from("hey i am feature c"));
 
     println!("Hello, world!");
 }
