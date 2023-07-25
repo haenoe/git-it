@@ -8,5 +8,7 @@ fn main() {
 
     dbg!(test_struct);
 
+    println!("oh a new feature b");
+
     println!("Hello, world!");
 }
